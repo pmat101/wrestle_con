@@ -1,6 +1,6 @@
 # wrestle_con
 
-A new Flutter application.
+A new fun Flutter application about wrestling legends..
 
 ## Getting Started
 
